@@ -1,0 +1,12 @@
+.activity img {
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgba(24, 16, 16, 0.767);
+    padding: 20px;
+}
+
+.activity {
+
+    border-radius: 10px;
+    background-color: rgba(24, 16, 16, 0.767);
+}

@@ -1,0 +1,16 @@
+.header {
+    background-color: rgb(49, 27, 27);
+
+    padding: 30px;
+}
+
+.header nav a {
+    text-decoration: none;
+    background-color: rgb(51, 75, 75);
+    color: goldenrod;
+    padding: 5px 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: x-large;
+}
